@@ -3,8 +3,8 @@ Writeups for PicoCTF challenges
 
 | Web Exploitation |
 |------------------|
-| GET aHEAD        |
-|Cookies |
+| [GET aHEAD](web-exploitation/get-ahead.md)        |
+| [Cookies](cookies/cookies.md) |
 
 
 
